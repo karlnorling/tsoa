@@ -45,7 +45,7 @@
     "handlebars-helpers": "^0.9.5",
     "lodash.indexof": "^4.0.5",
     "lodash.map": "^4.6.0",
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "moment": "^2.18.1",
     "typescript": "^2.5.2",
     "typescript-formatter": "^5.2.0",
